@@ -1,5 +1,5 @@
 # machine_learning_course
-### Course about the fundamentals of machine learning.
+### A course on the fundamentals of machine learning.
 
 Includes five notebooks that guide you through learning the basics of machine learning step by step (currently available only in French).
 
